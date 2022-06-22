@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestMod", "TestMod.csproj", "{0743F39F-3A3B-4FC8-9D22-9E8D1A1E513C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0743F39F-3A3B-4FC8-9D22-9E8D1A1E513C}.Debug|x64.ActiveCfg = Debug|x64
+		{0743F39F-3A3B-4FC8-9D22-9E8D1A1E513C}.Debug|x64.Build.0 = Debug|x64
+		{0743F39F-3A3B-4FC8-9D22-9E8D1A1E513C}.Release|x64.ActiveCfg = Release|x64
+		{0743F39F-3A3B-4FC8-9D22-9E8D1A1E513C}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93C02434-2E37-4E46-B56B-6B6F16847B26}
+	EndGlobalSection
+EndGlobal
